@@ -1,0 +1,6 @@
+ProductCode,MAE,RMSE,R2,MAPE,ForecastMean,SafetyStock,ReorderPoint,StockStatus
+47566,0.0,0.0,1.0,0.0,0.0,0.0,0.0,HIGH
+85123A,0.0,0.0,1.0,0.0,0.0,0.0,0.0,HIGH
+85099B,0.0,0.0,1.0,0.0,0.0,0.0,0.0,HIGH
+22960,0.0,0.0,1.0,0.0,0.0,0.0,0.0,HIGH
+23298,0.0,0.0,1.0,0.0,0.0,0.0,0.0,HIGH
