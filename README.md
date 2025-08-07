@@ -42,9 +42,9 @@ The system analyzes historical sales data to forecast demand and calculate optim
 
 ## Dataset Used
 
-This project uses the [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail) containing:
+This project uses the [M5 forcasting Retail Dataset]([https://archive.ics.uci.edu/dataset/352/online+retail](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data)) containing:
 
-- 541,909 transactions from a UK-based online retailer
+-
 - Time period: 12/2010 - 12/2011
 - Key attributes:
   - StockCode (Product ID)
